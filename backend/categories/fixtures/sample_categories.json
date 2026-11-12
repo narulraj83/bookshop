@@ -1,0 +1,10 @@
+[
+  {"model": "categories.category", "pk": 1, "fields": {"name": "Fiction", "slug": "fiction", "description": "Imaginative and thought-provoking stories.", "created_at": "2026-11-01T00:00:00Z", "updated_at": "2026-11-01T00:00:00Z"}},
+  {"model": "categories.category", "pk": 2, "fields": {"name": "Mystery", "slug": "mystery", "description": "Thrilling mysteries and suspense stories.", "created_at": "2026-11-01T00:00:00Z", "updated_at": "2026-11-01T00:00:00Z"}},
+  {"model": "categories.category", "pk": 3, "fields": {"name": "Science", "slug": "science", "description": "Exploration of the natural world and scientific inquiry.", "created_at": "2026-11-01T00:00:00Z", "updated_at": "2026-11-01T00:00:00Z"}},
+  {"model": "categories.category", "pk": 4, "fields": {"name": "Technology", "slug": "technology", "description": "Books on coding, innovation, and digital age.", "created_at": "2026-11-01T00:00:00Z", "updated_at": "2026-11-01T00:00:00Z"}},
+  {"model": "categories.category", "pk": 5, "fields": {"name": "History", "slug": "history", "description": "Narratives and analysis of world history.", "created_at": "2026-11-01T00:00:00Z", "updated_at": "2026-11-01T00:00:00Z"}},
+  {"model": "categories.category", "pk": 6, "fields": {"name": "Fantasy", "slug": "fantasy", "description": "Epic and magical worlds for readers of all ages.", "created_at": "2026-11-01T00:00:00Z", "updated_at": "2026-11-01T00:00:00Z"}},
+  {"model": "categories.category", "pk": 7, "fields": {"name": "Children's Books", "slug": "childrens-books", "description": "Books that spark imagination and curiosity in children.", "created_at": "2026-11-01T00:00:00Z", "updated_at": "2026-11-01T00:00:00Z"}},
+  {"model": "categories.category", "pk": 8, "fields": {"name": "Educational Books", "slug": "educational-books", "description": "Books designed to educate and inspire learning.", "created_at": "2026-11-01T00:00:00Z", "updated_at": "2026-11-01T00:00:00Z"}}
+]

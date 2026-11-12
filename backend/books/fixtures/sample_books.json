@@ -1,0 +1,65 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "category": 1,
+      "description": "A reflective and imaginative novel about life choices, regret, and second chances.",
+      "isbn": "978-0-525-55962-0",
+      "cover_image": "books/default.jpg",
+      "original_price": "420.00",
+      "discount_price": "299.00",
+      "stock": 15,
+      "rating": "4.8",
+      "is_featured": true,
+      "is_best_selling": true,
+      "is_latest": true,
+      "created_at": "2026-11-01T00:00:00Z",
+      "updated_at": "2026-11-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "category": 8,
+      "description": "A practical guide to building better habits and changing your life in a sustainable way.",
+      "isbn": "978-0-7432-8467-7",
+      "cover_image": "books/default.jpg",
+      "original_price": "560.00",
+      "discount_price": "399.00",
+      "stock": 22,
+      "rating": "4.7",
+      "is_featured": true,
+      "is_best_selling": false,
+      "is_latest": true,
+      "created_at": "2026-11-02T00:00:00Z",
+      "updated_at": "2026-11-02T00:00:00Z"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "category": 2,
+      "description": "A psychological thriller filled with suspense, secrets, and a shocking twist.",
+      "isbn": "978-1-250-22812-8",
+      "cover_image": "books/default.jpg",
+      "original_price": "480.00",
+      "discount_price": "320.00",
+      "stock": 18,
+      "rating": "4.6",
+      "is_featured": false,
+      "is_best_selling": true,
+      "is_latest": false,
+      "created_at": "2026-11-03T00:00:00Z",
+      "updated_at": "2026-11-03T00:00:00Z"
+    }
+  }
+]
